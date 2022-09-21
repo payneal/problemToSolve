@@ -1,0 +1,55 @@
+
+.select_filter {
+  position: absolute;
+  right: 0;
+  padding-right: 10%;
+}
+
+.table {
+  border: 1px solid;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.table th {
+  color: black;
+  background-color: grey;
+}
+
+.table tbody td {
+  border: solid 1px black;
+  text-align: center
+}
+
+.link {
+  background: none!important;
+  border: none;
+  padding: 0!important;
+  /*optional*/
+  font-family: arial, sans-serif;
+  /*input has OS specific font-family*/
+  color: #069;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.StockInfo {
+  padding-left: 15px;
+  border: 1px solid black;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 200px;
+}
+
+.StockInfoTable {
+  text-align: left;
+  margin-left: 5%;
+  width: 50%;
+
+}
+
+.spaceUnder td {
+  padding-bottom: 20px;
+}

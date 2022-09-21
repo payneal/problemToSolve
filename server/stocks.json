@@ -1,0 +1,27 @@
+{
+  "0": {
+    "symbol": "aapl", 
+    "name": "Apple Inc", 
+    "tag":"forFriends", 
+    "market_cap":"2.52T" ,
+    "last_price": 156.70},
+  "1": {
+    "symbol": "csco", 
+    "name": "Cisco Systems Inc", 
+    "tag":"watching", 
+    "market_cap": "174.58B" ,
+    "last_price": 42.51 },
+  "2": {
+    "symbol": "t", 
+    "name": "AT&T Inc.", 
+    "tag": "watching",
+    "market_cap": "118.04B", 
+    "last_price": 16.56},
+  "3": {
+    "symbol": "vmw", 
+    "name": "VMware, Inc.", 
+    "tag": "favorite", 
+    "market_cap":"46.99B" , 
+    "last_price": 111.09}
+}
+
